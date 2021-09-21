@@ -6,13 +6,12 @@ Initial Function()
 }
 
 
-<<<<<<< HEAD
 feature1()
 {
   //Sample Code for Feate
-  //printf("feature1 change applied");
+  printf("feature1 change applied");
 }
-=======
+
 feature2()
 {
   //Sample Code for Feature 2
